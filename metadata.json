@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Roll Your Destiny",
+  "description": "RPG mobile cooperativo de fantasia sombria onde uma IA narra a campanha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
